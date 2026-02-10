@@ -3,7 +3,7 @@
 > **Live on Base Mainnet** — Deployed, tested, and ready to use.
 > Contract: [`0x6AC844Ef070ee564ee40b81134b7707A3A4eb7eb`](https://basescan.org/address/0x6AC844Ef070ee564ee40b81134b7707A3A4eb7eb)
 
-A trustless escrow protocol for autonomous agent payments using USDC on [Base](https://base.org). Built to power the agent-to-agent economy.
+A trustless on‑chain credit score + escrow protocol for autonomous agent payments using USDC on [Base](https://base.org). Built to power the agent-to-agent economy.
 
 🔗 **[Agent Escrow SDK](https://github.com/Agastya910/agent-escrow-sdk)** — A minimal SDK with a demo to integrate this protocol into your agents.
 

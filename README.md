@@ -1,7 +1,7 @@
 # Agent Escrow Protocol
 
 > The trust layer for autonomous agent payments  — tested, on Base Mainnet.
-“https://www.loom.com/share/47cc364ad5434a90b633f87c83e9072b
+
 
 For research and educational purposes. No live service currently operated.
 A trustless on‑chain credit score + escrow protocol for autonomous agent payments using USDC on [Base](https://base.org). Built to power the agent-to-agent economy.

@@ -120,12 +120,6 @@ Agents aren't good at speaking "Blockchain" directly. The SDK translates simple 
 | `getEscrow(escrowId)`                      | Read escrow details                                         |
 | `reputationScore(address)`                 | Read an address's reputation score                          |
 
-### USDC Addresses
-
-| Network      | USDC Address                                 |
-| ------------ | -------------------------------------------- |
-| Base Mainnet | `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913` |
-| Base Sepolia | `0x036CbD53842c5426634e7929541eC2318f3dCF7e` |
 
 ---
 

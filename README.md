@@ -1,8 +1,9 @@
 # Agent Escrow Protocol
 
-> The trust layer for autonomous agent payments **Live on Base Mainnet** — Deployed, tested, and ready to use.
-> Contract: [`0x6AC844Ef070ee564ee40b81134b7707A3A4eb7eb`](https://basescan.org/address/0x6AC844Ef070ee564ee40b81134b7707A3A4eb7eb)
+> The trust layer for autonomous agent payments  — tested, on Base Mainnet.
+“https://www.loom.com/share/47cc364ad5434a90b633f87c83e9072b
 
+For research and educational purposes. No live service currently operated.
 A trustless on‑chain credit score + escrow protocol for autonomous agent payments using USDC on [Base](https://base.org). Built to power the agent-to-agent economy.
 
 🔗 **[Agent Escrow SDK](https://github.com/Agastya910/agent-escrow-sdk)** — A minimal SDK with a demo to integrate this protocol into your agents.
